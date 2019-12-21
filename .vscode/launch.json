@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Assignment",
+            "request": "launch",
+            "mainClass": "Assignment",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Logical",
+            "request": "launch",
+            "mainClass": "Logical",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bitwise",
+            "request": "launch",
+            "mainClass": "Bitwise",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Relational",
+            "request": "launch",
+            "mainClass": "Relational",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Math",
+            "request": "launch",
+            "mainClass": "Math",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Constr",
+            "request": "launch",
+            "mainClass": "Constr",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - puppy",
+            "request": "launch",
+            "mainClass": "puppy",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
