@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - switchcase",
+            "request": "launch",
+            "mainClass": "switchcase",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demoif",
+            "request": "launch",
+            "mainClass": "demoif",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fordemo",
+            "request": "launch",
+            "mainClass": "fordemo",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dowh",
+            "request": "launch",
+            "mainClass": "Dowh",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - foor",
+            "request": "launch",
+            "mainClass": "foor",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Wh",
+            "request": "launch",
+            "mainClass": "Wh",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Conditional",
             "request": "launch",
             "mainClass": "Conditional",

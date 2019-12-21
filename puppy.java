@@ -8,7 +8,7 @@ System.out.println("name is:"+name);
 
 public static void main(String Args[])
 {
-    puppy p=new puppy("tommy");
+    // puppy p=new puppy("tommy");
 
 
 

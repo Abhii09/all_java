@@ -1,3 +1,4 @@
+
 public class Math{
     int a=20;
     int b=10;
@@ -42,8 +43,9 @@ public class Math{
 
     }
 
-    public static void main(String args[]){
-        Math m=new Math();
+    public static void main(String args[])
+    {
+        Math m =new Math();
         m.add();
         m.sub();
         m.div();
