@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StaticMethod",
+            "request": "launch",
+            "mainClass": "StaticMethod",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticVariable",
+            "request": "launch",
+            "mainClass": "StaticVariable",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodCalling",
+            "request": "launch",
+            "mainClass": "MethodCalling",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date",
+            "request": "launch",
+            "mainClass": "Date",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoArray",
+            "request": "launch",
+            "mainClass": "DemoArray",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stringc",
+            "request": "launch",
+            "mainClass": "Stringc",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - switchcase",
             "request": "launch",
             "mainClass": "switchcase",
