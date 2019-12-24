@@ -16,7 +16,7 @@ public static void main(String[] args){
 
     StaticMethod st=new StaticMethod();
     st.display();
-    st.show();
+   // st.show();
 }
 
 }

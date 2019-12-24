@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Harearchical",
+            "request": "launch",
+            "mainClass": "Harearchical",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multilevel",
+            "request": "launch",
+            "mainClass": "Multilevel",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demoinheritance",
+            "request": "launch",
+            "mainClass": "Demoinheritance",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Finaldemo",
+            "request": "launch",
+            "mainClass": "Finaldemo",
+            "projectName": "java_6349b223"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StaticMethod",
             "request": "launch",
             "mainClass": "StaticMethod",

@@ -9,7 +9,7 @@ public class StaticVariable{
 
     public static void main(String[] args){
 
-        StaticVariable s=new StaticVariable();
+       // StaticVariable s=new StaticVariable();
         
 
         
